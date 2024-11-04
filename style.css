@@ -1,0 +1,14 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+[data-tf-live] {
+    min-height: 500px; /* Ajustez selon vos besoins */
+}
+

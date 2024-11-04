@@ -1,0 +1,30 @@
+.btn_blue {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.btn_blue:hover {
+    background-color: #d32f2f;
+}
+
+.btn_red {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #f44336;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    margin-top: 15px;
+    transition: background-color 0.3s;
+}
+
+.btn_red:hover {
+    background-color: rgb(246, 95, 84);
+}
+
